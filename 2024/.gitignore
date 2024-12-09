@@ -1,3 +1,4 @@
 *.bin
 input.txt
 test.txt
+test*.txt
